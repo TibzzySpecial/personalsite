@@ -158,7 +158,7 @@ margin-left: 30px;
 @media (max-width: 1028px) {
 
   .intro {
-    width: 20%;
+    width: 100px;
   }
 
   .skill-row {
@@ -167,18 +167,16 @@ margin-left: 30px;
     margin: auto;
   }
   .computer-img {
-  width: 80%;
   margin-bottom: 20px;
   float: none;
   }
 
   .chillies-img {
-  width: 80%;
   float: none;
   margin-bottom: 30px;
   }
 
   .contact-message {
-    width: 20%;
+    width: 100px;
   }
 }
