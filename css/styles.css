@@ -158,7 +158,7 @@ margin-left: 30px;
 @media (max-width: 1028px) {
 
   .intro {
-    width: 200px;
+    width: 300px;
   }
 
   .skill-row {
@@ -177,6 +177,6 @@ margin-left: 30px;
   }
 
   .contact-message {
-    width: 200px;
+    width: 300px;
   }
 }
