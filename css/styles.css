@@ -24,12 +24,12 @@ h2 {
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 2;
 }
 
@@ -61,9 +61,6 @@ padding-top: 100px;
 position: relative;
 }
 
-.intro {
-  font-size: 1.5rem
-}
 
 .middle-container {
   margin: 100px 0;
@@ -165,7 +162,7 @@ margin-left: 30px;
   }
 
   .skill-row {
-    width: 45%;
+    width: 100%;
     margin: 100px auto 200px auto;
     text-align: center;
     margin: auto;
